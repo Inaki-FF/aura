@@ -1,0 +1,68 @@
+{
+    "aapl-20200926.pdf": {
+        "document_info": {
+            "company_name": "Apple Inc.",
+            "fiscal_year": "2020",
+            "document_type": "10-K"
+        },
+        "income_statement": {
+            "revenue": 274515,
+            "operating_income": 66388,
+            "net_income": 57411
+        },
+        "balance_sheet": {
+            "total_assets": 323888,
+            "total_liabilities": 258549,
+            "total_equity": 65339
+        },
+        "cash_flow": {
+            "operating_cash_flow": 80674,
+            "investing_cash_flow": -4289,
+            "financing_cash_flow": -86820
+        }
+    },
+    "aapl-20210925.pdf": {
+        "document_info": {
+            "company_name": "Apple Inc.",
+            "fiscal_year": "2021",
+            "document_type": "10-K"
+        },
+        "income_statement": {
+            "revenue": 365817,
+            "operating_income": 108949,
+            "net_income": 94680
+        },
+        "balance_sheet": {
+            "total_assets": 351002,
+            "total_liabilities": 287912,
+            "total_equity": 63090
+        },
+        "cash_flow": {
+            "operating_cash_flow": 104038,
+            "investing_cash_flow": -14545,
+            "financing_cash_flow": -93353
+        }
+    },
+    "aapl-20220924.pdf": {
+        "document_info": {
+            "company_name": "Apple Inc.",
+            "fiscal_year": "2022",
+            "document_type": "10-K"
+        },
+        "income_statement": {
+            "revenue": 394328,
+            "operating_income": 119437,
+            "net_income": 99803
+        },
+        "balance_sheet": {
+            "total_assets": 352755,
+            "total_liabilities": 302083,
+            "total_equity": 50672
+        },
+        "cash_flow": {
+            "operating_cash_flow": 122151,
+            "investing_cash_flow": -22354,
+            "financing_cash_flow": -89068
+        }
+    }
+}

@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  financial-analyzer:
+    build: .
+    volumes:
+      - ./data/input:/app/data/input
+      - ./data/output:/app/data/output
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+    command: "/app/data/input/*.pdf" 

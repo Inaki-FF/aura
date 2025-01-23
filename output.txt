@@ -1,0 +1,40 @@
+Financial Analysis Report
+=======================
+
+1. Year-over-Year Revenue Growth
+--------------------------------
+  fiscal_year  revenue_growth_percent
+0        2021                   33.26
+1        2022                    7.79
+
+2. Net Margin by Year
+---------------------
+  fiscal_year  net_margin_percent
+0        2020               20.91
+1        2021               25.88
+2        2022               25.31
+
+3. Assets vs Liabilities YoY Change
+-----------------------------------
+  fiscal_year  assets_change_percent  liabilities_change_percent
+0        2021                   8.37                       11.36
+1        2022                   0.50                        4.92
+
+4. Operating Cash Flow Trend
+----------------------------
+  fiscal_year  operating_cash_flow  ocf_to_revenue_percent
+0        2020              80674.0                   29.39
+1        2021             104038.0                   28.44
+2        2022             122151.0                   30.98
+
+5. Liquidity Indicator
+----------------------
+  fiscal_year  liquidity_ratio_percent
+0        2020                    25.27
+1        2021                    21.91
+2        2022                    16.77
+
+Summary Statistics
+=================
+   avg_revenue_billions  avg_net_income_billions  avg_operating_cash_flow_billions
+0                344.89                    83.96                            102.29
